@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/rporcio/Development/coursera/progfun/week_06/forcomp/src/test/resources/forcomp,/Users/rporcio/Development/coursera/progfun/week_06/forcomp/target/scala-2.11/test-classes/forcomp)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rporcio/Development/coursera/progfun/week_06/forcomp/src/test/resources/linuxwords.txt,/Users/rporcio/Development/coursera/progfun/week_06/forcomp/target/scala-2.11/test-classes/linuxwords.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/rporcio/Development/coursera/progfun/week_06/forcomp/src/test/resources/forcomp/linuxwords.txt,/Users/rporcio/Development/coursera/progfun/week_06/forcomp/target/scala-2.11/test-classes/forcomp/linuxwords.txt)[0m
